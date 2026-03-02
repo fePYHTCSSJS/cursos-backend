@@ -1,0 +1,12 @@
+{
+  "name": "cursos-backend",
+  "version": "1.0.0",
+  "description": "Backend do sistema de cursos online - Unoeste",
+  "main": "src/test/TestesCurso.js",
+  "scripts": {
+    "start": "node src/test/TestesCurso.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.0"
+  }
+}
